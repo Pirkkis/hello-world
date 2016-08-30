@@ -1,2 +1,2 @@
 # hello-world
-This is the first study assignment by Pirkkis.
+The goal of this execise is to learn how to use GitHub.
